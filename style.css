@@ -1,0 +1,20 @@
+#container1 {
+  height: 55em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body {
+  background-color: #1f1f1f; /* i stole this color from vs code's dark+ theme lmao */
+}
+#apple {
+  color: white;
+  border-radius: 11px;
+  border-color: rgba(255, 255, 255, 5%);
+  background-color: transparent;
+}
+#apple:hover {
+  background-color: #454649; /* i stole this color from chrome 
+                                wowzers so many stolen colors*/
+  border-color: white;
+}
