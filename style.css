@@ -7,6 +7,10 @@
 body {
   background-color: #1f1f1f; /* i stole this color from vs code's dark+ theme lmao */
 }
+p {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
 #apple {
   color: white;
   border-radius: 11px;
@@ -15,6 +19,6 @@ body {
 }
 #apple:hover {
   background-color: #454649; /* i stole this color from chrome 
-                                wowzers so many stolen colors*/
+                                wowzers so many stolen colors */
   border-color: white;
 }
